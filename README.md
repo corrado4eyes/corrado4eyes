@@ -10,4 +10,3 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/corrado-quattrocchi-7aa048160/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="corrado4eyes-lnkd" height="30" width="40" /></a>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=corrado4eyes&show_icons=true&locale=en" alt="corrado4eyes" /></p>
